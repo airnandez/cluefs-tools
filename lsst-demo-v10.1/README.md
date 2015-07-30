@@ -1,4 +1,4 @@
-# cluefs tools • lsst-demo-v10.1
+# cluefs tools - lsst-demo-v10.1
 
 This directory contains a Python notebook for exploring the contents of the data collected and emitted by [clueFS](https://github.com/airnandez/cluefs) while executing the demonstration software of the [LSST](http://dm.lsst.org/) software framework v10.1.
 
