@@ -16,6 +16,10 @@ $ cd cluefs-tools/lsst-demo-v10.1
 $ ipython notebook
 ```
 
+## Cannot view the notebook?
+
+If you experience some problems viewing the notebook on Github, you can view it in [nbviewer.ipython.org](http://nbviewer.ipython.org/github/airnandez/cluefs-tools/blob/master/lsst-demo-v10.1/lsst-demo-v10.1.ipynb).
+
 ## How to contribute
 
 If you experience some issues using this tool, please don't hesitate to [open an issue](https://github.com/airnandez/cluefs-tools/issues).
