@@ -6,7 +6,8 @@ Each subdirectory contains a separate, standalone tool with its associated docum
 
 Currently the tools below are available:
 
-* [lsst-demo-v10.1](lsst-demo-v10.1): contains a Python notebook for interactive exploration of the file system activity induced by the execution of the [Large Synoptic Survey Telescope (LSST)](http://dm.lsst.org/) software demo.
+* [lsst-demo-v10.1](lsst-demo-v10.1): contains a Python notebook for interactive exploration of the file system activity induced by the execution of the [Large Synoptic Survey Telescope (LSST)](http://dm.lsst.org/) software demo using v10.1.
+* [lsst-demo-v11.0](lsst-demo-v11.0): contains a Python notebook for interactive exploration of the file system activity induced by the execution of the [Large Synoptic Survey Telescope (LSST)](http://dm.lsst.org/) software demo using v11.0.
 
 
 ## Credits
